@@ -1,0 +1,15 @@
+{
+  "name": "ehs-compliance",
+  "version": "0.1.0",
+  "description": "안전·보건·환경 업무 — 산업안전보건법 위험성평가, 중대재해처벌법 안전보건관리체계 이행 점검, ISO 14001 환경측면·법규 대장, 재해·아차사고 조사 보고서.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "안전",
+    "위험성평가",
+    "중대재해처벌법",
+    "ISO14001"
+  ]
+}

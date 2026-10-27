@@ -1,0 +1,15 @@
+{
+  "name": "production-engineering",
+  "version": "0.1.0",
+  "description": "생산기술 업무 — 작업표준서(다국어 포함), 4M 변경점 신고·초물 검증, 라인 밸런싱·CAPA, 설비·금형·애플리케이터 예방보전, 오류방지, 개선·VA/VE 제안서.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "4M",
+    "작업표준서",
+    "라인밸런싱",
+    "예방보전"
+  ]
+}

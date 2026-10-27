@@ -1,0 +1,13 @@
+{
+  "name": "supplier-plugin-builder",
+  "version": "0.1.0",
+  "description": "이 플러그인 모음을 회사에 맞게 고치고(자리표시자 교체, 회사 정보 파일, 양식 반영) 새 협력사 업무 스킬을 만든다.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "플러그인",
+    "커스터마이즈"
+  ]
+}

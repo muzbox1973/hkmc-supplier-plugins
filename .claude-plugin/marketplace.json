@@ -1,0 +1,68 @@
+{
+  "name": "hkmc-supplier-plugins",
+  "owner": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "metadata": {
+    "description": "현대·기아 협력사(1·2·3차) 업무용 비공식 오픈소스 플러그인 모음. anthropics/knowledge-work-plugins 구조를 따른다.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "supplier-quality",
+      "displayName": "협력사 품질보증",
+      "source": "./supplier-quality",
+      "description": "현대·기아 협력사 품질보증 업무 — SQ 인증 심사 준비, 8D 개선대책서, 클레임 초동 대응, PFMEA·관리계획서, 공정감사, 품질 실적 보고, 인증 심사, 고객 평가(5스타·SQ) 대응.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "new-product-development",
+      "displayName": "신차 개발·APQP",
+      "source": "./new-product-development",
+      "description": "신차·신규 품번 개발 업무 — APQP 일정 역산, 초도품(ISIR) 제출 서류, 도면·사양 검토와 고객 질의서, 설계변경 영향 분석, 개발 이슈·단계 점검.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "production-engineering",
+      "displayName": "생산기술",
+      "source": "./production-engineering",
+      "description": "생산기술 업무 — 작업표준서(다국어 포함), 4M 변경점 신고·초물 검증, 라인 밸런싱·CAPA, 설비·금형·애플리케이터 예방보전, 오류방지, 개선·VA/VE 제안서.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "wiring-harness",
+      "displayName": "와이어링 하네스",
+      "source": "./wiring-harness",
+      "description": "와이어링 하네스 제조 특화 — 단자 압착 품질(크림프 하이트·인장력·단면 분석·CFM), 공정흐름도와 공정별 고장 형태, 통전·오삽입 불량 분석, 도면↔BOM 대조, 압착기 호기·애플리케이터 배분.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "supply-chain",
+      "displayName": "구매·공급망",
+      "source": "./supply-chain",
+      "description": "구매·공급망 업무 — 하위 협력사 평가·선정, 납입 성과·결품 조기 경보, 공급망 ESG 자가진단·실사 대응, 원가 계산서와 단가 조정 근거.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "ehs-compliance",
+      "displayName": "안전·환경",
+      "source": "./ehs-compliance",
+      "description": "안전·보건·환경 업무 — 산업안전보건법 위험성평가, 중대재해처벌법 안전보건관리체계 이행 점검, ISO 14001 환경측면·법규 대장, 재해·아차사고 조사 보고서.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "office-workflow",
+      "displayName": "사무·그룹웨어",
+      "source": "./office-workflow",
+      "description": "사무 업무 — 전자결재 기안문·품의서, 주간·월간 보고, 회의록과 조치 사항, 고객사 메일·공문 회신, 해외 사업장 다국어 커뮤니케이션.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "supplier-plugin-builder",
+      "displayName": "플러그인 맞춤·제작",
+      "source": "./supplier-plugin-builder",
+      "description": "이 플러그인 모음을 회사에 맞게 고치고(자리표시자 교체, 회사 정보 파일, 양식 반영) 새 협력사 업무 스킬을 만든다.",
+      "version": "0.1.0"
+    }
+  ]
+}

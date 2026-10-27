@@ -1,0 +1,15 @@
+{
+  "name": "wiring-harness",
+  "version": "0.1.0",
+  "description": "와이어링 하네스 제조 특화 — 단자 압착 품질(크림프 하이트·인장력·단면 분석·CFM), 공정흐름도와 공정별 고장 형태, 통전·오삽입 불량 분석, 도면↔BOM 대조, 압착기 호기·애플리케이터 배분.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "와이어링하네스",
+    "압착",
+    "크림프",
+    "통전검사"
+  ]
+}

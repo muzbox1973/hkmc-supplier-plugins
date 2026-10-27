@@ -1,0 +1,15 @@
+{
+  "name": "supply-chain",
+  "version": "0.1.0",
+  "description": "구매·공급망 업무 — 하위 협력사 평가·선정, 납입 성과·결품 조기 경보, 공급망 ESG 자가진단·실사 대응, 원가 계산서와 단가 조정 근거.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "구매",
+    "협력사평가",
+    "ESG",
+    "원가"
+  ]
+}

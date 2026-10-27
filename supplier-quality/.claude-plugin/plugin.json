@@ -1,0 +1,16 @@
+{
+  "name": "supplier-quality",
+  "version": "0.1.0",
+  "description": "현대·기아 협력사 품질보증 업무 — SQ 인증 심사 준비, 8D 개선대책서, 클레임 초동 대응, PFMEA·관리계획서, 공정감사, 품질 실적 보고, 인증 심사, 고객 평가(5스타·SQ) 대응.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "품질",
+    "SQ",
+    "8D",
+    "IATF16949",
+    "PFMEA"
+  ]
+}

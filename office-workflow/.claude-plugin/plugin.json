@@ -1,0 +1,15 @@
+{
+  "name": "office-workflow",
+  "version": "0.1.0",
+  "description": "사무 업무 — 전자결재 기안문·품의서, 주간·월간 보고, 회의록과 조치 사항, 고객사 메일·공문 회신, 해외 사업장 다국어 커뮤니케이션.",
+  "author": {
+    "name": "muzbox (GPT PARK)"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "기안문",
+    "주간보고",
+    "회의록",
+    "공문"
+  ]
+}
