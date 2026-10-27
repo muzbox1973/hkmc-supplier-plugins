@@ -9,7 +9,7 @@ ISO 45001·ISO 14001을 운영하는 제조 사업장의 안전환경 문서 업
 ## 설치
 
 ```bash
-claude plugin marketplace add <이 저장소 경로 또는 GitHub 주소>
+claude plugin marketplace add muzbox1973/hkmc-supplier-plugins
 claude plugin install ehs-compliance@hkmc-supplier-plugins
 ```
 

@@ -9,7 +9,7 @@
 ## 설치
 
 ```bash
-claude plugin marketplace add <이 저장소 경로 또는 GitHub 주소>
+claude plugin marketplace add muzbox1973/hkmc-supplier-plugins
 claude plugin install production-engineering@hkmc-supplier-plugins
 ```
 

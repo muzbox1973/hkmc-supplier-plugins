@@ -9,7 +9,7 @@ SQ 인증 12개 업종 중 '와이어링' 업종 협력사의 현장 기술 업�
 ## 설치
 
 ```bash
-claude plugin marketplace add <이 저장소 경로 또는 GitHub 주소>
+claude plugin marketplace add muzbox1973/hkmc-supplier-plugins
 claude plugin install wiring-harness@hkmc-supplier-plugins
 ```
 

@@ -35,7 +35,7 @@ Claude를 **현대·기아 협력사(1·2·3차)의 직무 전문가**로 바꾸
 
 ```bash
 # 저장소(또는 이 폴더)를 마켓플레이스로 추가
-claude plugin marketplace add <GitHub 주소 또는 이 폴더 경로>
+claude plugin marketplace add muzbox1973/hkmc-supplier-plugins
 
 # 필요한 플러그인만 설치
 claude plugin install supplier-quality@hkmc-supplier-plugins
